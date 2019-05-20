@@ -214,18 +214,3 @@ void threshold_range(string file, int saturation)
         cout<<path<<endl;
     }
 }
-
-int main()
-{
-    int saturation, modo;
-    string fichero;
-    cout<<"Imagen: ";
-    cin>>fichero;
-    cout<<"Saturacion: ";
-    cin>>saturation;
-    cout<<"Modo:"<<endl<<"1. Seleccionar umbral."<<endl<<"2.Rango de umbrales."<<endl<<">";
-    cin>>modo;
-    if(modo==1)fframe_single_threshold(fichero,saturation);
-    if(modo==2) threshold_range(fichero,saturation);
-    return 0;
-}
