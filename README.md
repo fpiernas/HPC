@@ -14,7 +14,7 @@ The parameters are:
 
   t: brighness of a pixel [0,255]
   
-  rho_s: color saturation [0,140] (0 gives grayscale values, 140 is the most saturated color and the recommended value)
+  rho_max: color saturation [0,140] (0 gives grayscale values, 140 is the most saturated color and the recommended value)
   
 **Example**
 Pseudocolor of a Hard Disk Drive radiography using different thresholds.
