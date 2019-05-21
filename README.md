@@ -8,7 +8,7 @@ It tries to highlight the most opaque parts to X-Rays, attenuating the most
 transparent but without saturating the color of the result.
 
 The equations used are these:
-![Screenshot](equations.PNG)
+![Screenshot](HPC_equations.PNG)
 
 The parameters are:
 
