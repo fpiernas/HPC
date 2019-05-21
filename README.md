@@ -26,7 +26,7 @@ OpenCV must be installed. To compile, link all OpenCV libraries.
 
 **How to include it to your project**
 
-Place "xfc.hpp" to the same directory as your source code and include it:
+Place "hpc.hpp" to the same directory as your source code and include it:
 #include "xfc.hpp"
 
 **Usage to pseudocolor an image using a single threshold, call this function:**
