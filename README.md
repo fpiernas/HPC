@@ -1,8 +1,9 @@
-# XFC
+# HPC
 Helix Pseudocolor Algorithm C++ by Fran Piernas Diaz
 
-**About XFC**
-XFC is a simple implementation of a pseudocolor algorithm I called Helix algorithm. 
+**About HPC**
+
+HPC is a simple implementation of a pseudocolor algorithm I called Helix algorithm. 
 It tries to highlight the most opaque parts to X-Rays, attenuating the most 
 transparent but without saturating the color of the result.
 
