@@ -1,5 +1,5 @@
 /**
-    xfc.hpp
+    hpc.hpp
     Helix Pseudocolor Algorithm
 
     MIT License
