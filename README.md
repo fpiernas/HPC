@@ -59,3 +59,5 @@ Place "hpc.hpp" to the same directory as your source code and include it:
         where:
             file is the string of the path to the image
             saturation is the color saturation from 0 to 140
+            
+            Before using this function, create a file named "output_set", that's where the images will be saved.
