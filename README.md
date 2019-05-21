@@ -15,6 +15,9 @@ The parameters are:
   
   rho_s: color saturation [0,140] (0 gives grayscale values, 140 is the most saturated color and the recommended value)
   
+**Example**
+Pseudocolor of a Hard Disk Drive radiography using different thresholds.
+![Screenshot](example.jpg)
   
 **Requirements**
 
